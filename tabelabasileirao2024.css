@@ -1,0 +1,29 @@
+table{ 
+			color: black;
+			width: 40%;
+			border: 10;
+			border-radius: 5px;
+			border-style:solid;
+			}
+			
+			.titulos {
+			color:black;
+			font-size:45px;
+			background-color:grey;
+			}
+			
+			.grupos {
+			color:blue;
+			}
+			
+			.qualify {
+			color:orange;
+			}
+			
+			.gruposSula {
+			color:green;
+			}
+			
+			.rebaixamento { 
+			color:red;
+			}
